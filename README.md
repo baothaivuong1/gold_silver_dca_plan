@@ -93,6 +93,28 @@ CSV files contain historical price data with the following columns:
 - Close
 - Volume
 
+## Conclusion
+
+### Fixed DCA Remains the Superior Strategy
+
+Based on comprehensive testing across multiple timeframes (daily, weekly, and monthly) and market conditions (full period 2000-2026 and challenging period 2011-2018), the **Fixed Dollar Cost Averaging (DCA)** strategy consistently demonstrates its effectiveness as the most reliable investment approach.
+
+#### Key Findings:
+
+1. **Consistency Across Timeframes**: Fixed DCA maintains stable performance whether analyzed using daily, weekly, or monthly data intervals, indicating robust and predictable results regardless of data frequency.
+
+2. **Resilience in Challenging Markets**: During the difficult 2011-2018 period (characterized by declining precious metal prices), Fixed DCA proved to be the most defensive strategy, protecting capital while maintaining steady accumulation.
+
+3. **Simplicity & Reliability**: While alternative strategies like Value Averaging, Signal-Based RSI, Double Down, and Lump Sum Hybrid offer optimization potential, Fixed DCA's simplicity combined with consistent performance makes it the most practical choice for long-term investors.
+
+4. **Long-term Value Accumulation**: Over the extended 2000-2026 period, the Fixed DCA strategy leveraged both bull and bear markets effectively, demonstrating that consistent, disciplined investing beats market timing.
+
+#### Recommendation:
+
+For precious metals investment (gold and silver), **Fixed DCA with regular monthly or weekly contributions** is the recommended strategy. It removes emotional decision-making, provides consistent market exposure, and has historically delivered superior risk-adjusted returns compared to other tested methodologies.
+
+The data strongly supports that *time in the market* combined with *consistent contributions* beats *timing the market*, making Fixed DCA the most effective approach for long-term wealth building in precious metals.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
